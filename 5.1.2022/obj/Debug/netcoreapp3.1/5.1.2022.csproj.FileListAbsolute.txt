@@ -1,0 +1,14 @@
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\bin\Debug\netcoreapp3.1\5.1.2022.exe
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\bin\Debug\netcoreapp3.1\5.1.2022.deps.json
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\bin\Debug\netcoreapp3.1\5.1.2022.runtimeconfig.json
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\bin\Debug\netcoreapp3.1\5.1.2022.runtimeconfig.dev.json
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\bin\Debug\netcoreapp3.1\5.1.2022.dll
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\bin\Debug\netcoreapp3.1\5.1.2022.pdb
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.csproj.AssemblyReference.cache
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.AssemblyInfoInputs.cache
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.AssemblyInfo.cs
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.csproj.CoreCompileInputs.cache
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.dll
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.pdb
+C:\Users\tu741rmps\Desktop\5.1.2022\5.1.2022\obj\Debug\netcoreapp3.1\5.1.2022.genruntimeconfig.cache
